@@ -2,7 +2,7 @@
 layout: about
 ---
 
-Hello, I'm Christoffer, Developer and enthusiastic in the areas of security, computer stuff, apple, and productivity.
+Hello, I'm Christoffer, developer and enthusiastic in the areas of security, computer stuff, apple, and productivity.
 
 # What do you do?
 I develop websites, I'm a student.
