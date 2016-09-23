@@ -42,4 +42,4 @@ Now you are ready to start you application. So Laravel has a built in PHP server
 
 And an server will start running at localhost:8000 which you can put in the url bar of your browser and you site will be live.
 
-Hope this makes the progress very easy, if you have any suggestions to this article, or any further articles please let me know in the comment field.
+Hope this makes the progress very easy, if you have any suggestions to this article, or any further articles please let me know.
