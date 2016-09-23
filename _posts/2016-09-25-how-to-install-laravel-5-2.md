@@ -26,3 +26,20 @@ When it is done, cd in to the directory you want to install Laravel(You don’t 
 And then run this in the terminal laravel new applicationname this will run some stuff, and show you a success message.
 
 Congratulations you have now installed Laravel!
+
+#Setup
+Before you start using Laravel it is a good practise to setup some stuff you properly are gonna need.
+First of all, rename the .env.example to .env and in there you can put you info for you local environment, an example could be:
+*APP_ENV=dev*
+*APP_DEBUG=true*
+*DB_HOST=localhost*
+*DB_DATABASE=db_name*
+*DB_USERNAME=db_username*
+*DB_PASSWORD=db_password*
+
+
+Now you are ready to start you application. So Laravel has a built in PHP server which works out of the box, just cd into your application directory and run the following command: ***php artisan serve***
+
+And an server will start running at localhost:8000 which you can put in the url bar of your browser and you site will be live.
+
+Hope this makes the progress very easy, if you have any suggestions to this article, or any further articles please let me know in the comment field.
