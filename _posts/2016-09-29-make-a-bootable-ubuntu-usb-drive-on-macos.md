@@ -6,7 +6,7 @@ title: Make a bootable Ubuntu USB using macOS.
 **TL;DR:** After trying out Unetbootin and finding that my usb would not boot. I found an easy solution to the problem.
 
 
-#Unetbootin not working?
+# Unetbootin not working?
 
 I have been experiencing a weird problem with my newly installation of Ubuntu 16.04, if I started using the machine with more heavy tasks it would freeze and the only option was to do a cold restart.
 
@@ -16,7 +16,7 @@ I tried out Unetbootin which was the only native option I knew of on macOS and i
 
 My next move was trying out rufus the only problem with rufus is that only works on windows, and after installing Ubuntu I had no way to use rufus natively, I tried running rufus in wine, but it couldn't find the usb.
 
-#Etcher my new go to.
+# Etcher my new go to.
 
 I tried a couple of internet searches for alternatives and i found [Etcher](https://www.etcher.io), it looked nice, and seemed simple, and it was also my best bed at the moment.
 
