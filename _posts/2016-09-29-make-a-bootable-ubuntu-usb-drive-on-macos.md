@@ -7,6 +7,7 @@ title: Make a bootable Ubuntu USB using macOS.
 
 
 #Unetbootin not working?
+
 I have been experiencing a weird problem with my newly installation of Ubuntu 16.04, if I started using the machine with more heavy tasks it would freeze and the only option was to do a cold restart.
 
 I haven't been able to find a solution to this, but I read some place that it could be the iso used that could have been corrupted or something. So my next bed was to reinstall the system.
